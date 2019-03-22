@@ -1,0 +1,45 @@
+body
+{
+   background-color: #404040;
+   font-family: 'Lato', sans-serif;
+}
+
+canvas#gl-canvas {
+   border: 1px solid #66666D; 
+   background-color: #535352;
+   position: absolute;
+   left: 25%;
+
+}
+
+.settings{
+   background-color: #979797;
+   width: 15%;
+   float: left;
+   min-height: 620px;
+   padding: 20px;
+   text-align: center;
+   font-size: 18px;
+   border-right: 2px dotted #666666;
+}
+
+.bigtile{
+   font-size: 32px;
+   font-weight: 900;
+   letter-spacing: 2px;
+}
+
+.dottedline
+{
+   height: 5px;
+   margin-top:15px;
+   margin-bottom: 20px;
+   border-bottom: 2px dotted #444444;
+}
+
+.author
+{
+   margin-top: 95%;
+   font-size: 12px;
+   text-align: center;
+}
